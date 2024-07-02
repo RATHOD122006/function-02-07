@@ -12,7 +12,7 @@ int main(){
 	
 	int l,w;
 	
-	printf ("give two number : c");
+	printf ("give two number : ");
 	
 	scanf("%d%d",&l,&w);
 	

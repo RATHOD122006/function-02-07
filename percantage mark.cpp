@@ -21,7 +21,7 @@ int main(){
     
     scanf("%d %d %d %d %d",&v,&w,&x,&y,&z);
     
-    printf("your persentage : %.2f%", sum(v,w,x,y,z));
+    printf("your persentage : %.2f", sum(v,w,x,y,z));
     
     return 0;
 }

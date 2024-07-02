@@ -12,7 +12,7 @@ int main(){
 	
 	int a;
 	
-	printf ("give two number : ");
+	printf ("give one number : ");
 	
 	scanf("%d",&a);
 	

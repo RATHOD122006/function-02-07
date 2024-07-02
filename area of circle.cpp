@@ -12,13 +12,13 @@ int main(){
 	
 	int r;
 	
-	printf ("give two number : ");
+	printf ("give one number : ");
 	
 	scanf("%d",&r);
 	
 	float add = sum(r);
 	
-	printf("%f",add);
+	printf("%.2f",add);
 	
 	return 0;
 }
